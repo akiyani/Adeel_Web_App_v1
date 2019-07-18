@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarModelLayer", "CarModelLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBusinessLayer", "CarBusinessLayer\CarBusinessLayer.csproj", "{73EE56B4-5806-43A4-983C-FF10C2F52327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFCar", "WcfService\WCFCar.csproj", "{D3B9533B-C7A7-4517-84CF-F80BD08F79E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfCar", "WcfCar\WcfCar.csproj", "{6B98B3FB-9FED-44D8-A9EE-4DE813742856}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{73EE56B4-5806-43A4-983C-FF10C2F52327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73EE56B4-5806-43A4-983C-FF10C2F52327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73EE56B4-5806-43A4-983C-FF10C2F52327}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D3B9533B-C7A7-4517-84CF-F80BD08F79E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3B9533B-C7A7-4517-84CF-F80BD08F79E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3B9533B-C7A7-4517-84CF-F80BD08F79E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3B9533B-C7A7-4517-84CF-F80BD08F79E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B98B3FB-9FED-44D8-A9EE-4DE813742856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B98B3FB-9FED-44D8-A9EE-4DE813742856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B98B3FB-9FED-44D8-A9EE-4DE813742856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B98B3FB-9FED-44D8-A9EE-4DE813742856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
